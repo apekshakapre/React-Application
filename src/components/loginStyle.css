@@ -1,0 +1,18 @@
+.login-box{
+    margin: 0;
+    padding: 0;
+    background: url("/home/unify/REACT-DATA/movie-data/src/730718_mavericks-login-backgrounds-danasrga-top_1280x720_h.png");
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+};
+
+.avtar{
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+    
+}
